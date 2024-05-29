@@ -24,6 +24,8 @@
 
 ## Scan
 
+<first re-run build after any changes>
+
 `docker scout cves`
 
 
